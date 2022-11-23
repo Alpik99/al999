@@ -1,0 +1,65 @@
+nav  a{
+    text-decoration: none;
+    text-align: center;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    float: ;
+    padding: 24px;
+    color: black;
+}
+
+.tc{
+    margin-top: 50px;
+    margin-left: 230px;
+    
+}
+
+.joko{
+     align-items: center;
+     display: inline;
+     margin: 5px;
+     padding: 190px;
+}
+
+.bodo{
+    align-items: center;
+     display: inline;
+     margin: 5px;
+     padding: 190px;
+     color: blue;
+}
+
+.cio{
+    font-size: 30px;
+    font-family: arial;
+}
+
+.ax{
+    align-items: center;
+     display: inline;
+     margin: 5px;
+     padding: 190px;
+}
+
+.cj{
+    list-style-type: none;
+    padding-left: 170px;
+    color: black;
+    margin: 10px;
+   font-size: 12px;
+   display:inline;
+   
+}
+
+.qw{
+    font-size: 16px;
+    line-height: 2;
+    margin-bottom: 17px;
+}
+
+.er{
+    font-size: 16px;
+    line-height: 2;
+    margin-bottom: 17px;
+}
+
